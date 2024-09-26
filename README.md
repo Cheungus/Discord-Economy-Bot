@@ -2,7 +2,7 @@
 
 My Personal Project
 Interactive Games in this project:<br/>
-Coinflip\n
-Higher or Lower\n
-Dice competition\n
+Coinflip<br/>
+Higher or Lower<br/>
+Dice competition<br/>
 BlackJack
